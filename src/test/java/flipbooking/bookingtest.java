@@ -16,7 +16,7 @@ public class bookingtest {
 	@When("^user able to login with Password$")
 	public void user_able_to_login_with_Password()
 	{
-		System.out.println("Password");
+		System.out.println("pwd");
 		
 	}
 	
